@@ -2,9 +2,9 @@
 
 Available Commands:
 
-.sux
+.sex
 
-.fuk
+.fuck
 
 .kiss"""
 
@@ -30,9 +30,9 @@ async def _(event):
 
     #input_str = event.pattern_match.group(1)
 
-   # if input_str == "fuk":
+   # if input_str == "fuck":
 
-    await event.edit("fuk")
+    await event.edit("fuck")
 
     animation_chars = [
 
@@ -53,7 +53,7 @@ async def _(event):
         await event.edit(animation_chars[i % 4])
 
 
-@borg.on(admin_cmd("sux"))
+@borg.on(admin_cmd("sex"))
 
 async def _(event):
 
@@ -67,9 +67,9 @@ async def _(event):
 
     #input_str = event.pattern_match.group(1)
 
-    #if input_str == "sux":
+    #if input_str == "sex":
 
-    await event.edit("sux")
+    await event.edit("sex")
 
     animation_chars = [
 
