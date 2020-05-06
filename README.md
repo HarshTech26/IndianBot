@@ -1,13 +1,13 @@
 # IndianBot
 
 For any query or want to know how it works join
-## https://t.me/IndianBot_Official
+## https://t.me/Anon_cracker
 
 ## FORK AT YOUR OWN RISK
 ### Installing
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HarshTech26/IndianBot)
 
 ### The Normal Way
 
