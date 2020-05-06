@@ -53,11 +53,11 @@ async def _(event):
     #packname = f"IndiaBhai™keStickers"
     #packshortname = f"IndianBot_{userid}_ns"  # format: Uni_Borg_userid
     if userid == 748471982:
-        packname = f"ΛησηумσυѕKaPack"
-        packshortname = "🇮🇳Λησηумσυѕ🇮🇳"
+        packname = f"AnonymousKaPack"
+        packshortname = "AnonymousKaPack"
     else:
-        packname = f"Λησηумσυѕ{userid}"
-        packshortname = f"Λησηумσυѕ_{userid}_ns"
+        packname = f"Anonymous{userid}"
+        packshortname = f"Anonymous_{userid}_ns"
     await event.edit("`Look dat way,it's a gurl!\nMeanwhile, lemme kang this stcker over hehe ヽ༼ ಠ益ಠ ༽ﾉ`")
 
     is_a_s = is_it_animated_sticker(reply_message)
@@ -68,11 +68,11 @@ async def _(event):
         file_ext_ns_ion = "AnimatedSticker.tgs"
         uploaded_sticker = await borg.upload_file(file, file_name=file_ext_ns_ion)
         if userid == 748471982:
-            packname = f"Λησηумσυѕ Animated"
-            packshortname = "🇮🇳Λησηумσυѕ🇮🇳 Animated"
+            packname = f"Anonymous Animated"
+            packshortname = "Anonymous Animated"
         else:
-            packname = f"{userid}'s kang pack"
-            packshortname = f"Λησηумσυѕ_{userid}" # format: Uni_Borg_userid
+            packname = f"Anonymous{userid}'s kang pack"
+            packshortname = f"Anonymous_{userid}" # format: Uni_Borg_userid
     elif not is_message_image(reply_message):
         await event.edit("Invalid message type")
         return
