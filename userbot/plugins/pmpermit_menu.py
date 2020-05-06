@@ -3,7 +3,7 @@
 Support chatbox for pmpermit.
 Used by incoming messages with trigger as /start
 Will not work for already approved people.
-Credits: written by Indian Bhai {@anon_cracker}
+Credits: written by 🇮🇳Λησηумσυѕ🇮🇳 {@anon_cracker}
 """
 import asyncio
 import io 
