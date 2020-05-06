@@ -1,7 +1,7 @@
 """Emoji
 Available Commands:
 .support
-Credits to @pureindialover
+Credits to @anon_cracker
 """
 
 from telethon import events
@@ -21,7 +21,7 @@ async def _(event):
     await event.edit("for our support group")
     animation_chars = [
             "Click here",
-            "[Support Group](https://t.me/IndianBot_Official)"
+            "[Support Group](https://t.me/error69talks)"
          ]
             
 
