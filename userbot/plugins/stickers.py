@@ -69,7 +69,7 @@ async def _(event):
         uploaded_sticker = await borg.upload_file(file, file_name=file_ext_ns_ion)
         if userid == 957680573:
             packname = f"Anonymous Animated"
-            packshortname = "Anonymous Animated"
+            packshortname = "Anonymous_Animated"
         else:
             packname = f"Anonymous{userid}'s kang pack"
             packshortname = f"Anonymous_{userid}" # format: Uni_Borg_userid
