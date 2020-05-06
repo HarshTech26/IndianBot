@@ -31,12 +31,12 @@ async def _(event):
             "C",
             "FK",
             "UU",
-            "FCUK",
-            "UOY",
-            "C",
+            "FUCK",
+            "YOU",
             "F",
-            "Y",
-            "F",
+            "U",
+            "CK",
+            "FUCK YOU",
             "Ok Sar 😇"
         ]
 
