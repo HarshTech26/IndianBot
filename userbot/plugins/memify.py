@@ -1,6 +1,6 @@
 """Reply to an image/sticker with .mmf` 'text on top' ; 'text on bottom
-base by: @pureindialover
-created by: @pureindialover
+base by: @anon_cracker
+created by: @anon_cracker
 if you change these, you gay.
 """
 
