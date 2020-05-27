@@ -53,11 +53,11 @@ async def _(event):
     #packname = f"IndiaBhai™keStickers"
     #packshortname = f"IndianBot_{userid}_ns"  # format: Uni_Borg_userid
     if userid == 748471982:
-        packname = f"AnonymousKaPack"
-        packshortname = "AnonymousKaPack"
+        packname = f"MoiStickersAnonC"
+        packshortname = "MoiStickersAnonC"
     else:
-        packname = f"Anonymous{userid}"
-        packshortname = f"Anonymous_{userid}_ns"
+        packname = f"MoiStickersAnonC"
+        packshortname = f"MoiStickersAnonC"
     await event.edit("`Look dat way,it's a gurl!\nMeanwhile, lemme kang this stcker over hehe ヽ༼ ಠ益ಠ ༽ﾉ`")
 
     is_a_s = is_it_animated_sticker(reply_message)
@@ -68,8 +68,8 @@ async def _(event):
         file_ext_ns_ion = "AnimatedSticker.tgs"
         uploaded_sticker = await borg.upload_file(file, file_name=file_ext_ns_ion)
         if userid == 748471982:
-            packname = f"Anonymous Animated"
-            packshortname = "Anonymous_Animated"
+            packname = f"Anonymous Animated22222"
+            packshortname = "Anonymous_Animated222222"
         else:
             packname = f"Anonymous{userid}'s kang pack"
             packshortname = f"Anonymous_{userid}" # format: Uni_Borg_userid
